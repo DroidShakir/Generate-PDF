@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Generate PDF</string>
+    <string name="pdf_generator">PDF Generator</string>
+    <string name="generate_pdf">Generate PDF</string>
+</resources>
